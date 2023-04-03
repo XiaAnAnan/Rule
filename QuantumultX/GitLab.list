@@ -1,3 +1,5 @@
+# Git时总会报错，全局或关闭后即可正常使用，chatGPT生成的规则，分流后可用
+
 USER-AGENT,Git*,DIRECT
 DOMAIN-SUFFIX,gitlab.com,DIRECT
 IP-CIDR,172.65.0.0/16,DIRECT
